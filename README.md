@@ -9,7 +9,7 @@ Easy to use: Interactive menu for selecting software to install.
 
 # Categories of Software:
 
-Text Editors: 
+### Text Editors: 
 
 - Gnome-Text-Editor
 - Gedit
@@ -19,17 +19,27 @@ Text Editors:
 - Kwrite
 - Atom
 - 
-Audio & Video:
+### Audio & Video:
 - Mpv
 - VLC
 - Audacity
   
-Electronics:
+### Electronics:
 - KiCad
 - LibrePCB
-Terminals: Konsole, BlackBox
-Files: Dolphin, CoreFM
-Browsers: Edge, Chrome, Chromium, Brave, Firefox, Ungoogled Chromium
+### Terminals:
+- Konsole
+- BlackBox
+### Files:
+- Dolphin
+- CoreFM
+### Browsers:
+ - Edge
+ - Chrome
+ - Chromium
+ - Brave
+ - Firefox
+ - Ungoogled Chromium
 
 # Prerequisites
 A Unix-like operating system (Linux).
