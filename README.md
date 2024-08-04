@@ -42,9 +42,9 @@ Easy to use: Interactive menu for selecting software to install.
  - Ungoogled Chromium
 
 # Prerequisites
-A Unix-like operating system (Linux).
-Flatpak must be installed.
-Bash shell.
+- Unix-like operating system (Linux).
+- Flatpak must be installed.
+- Bash shell.
 
 # Install
 
