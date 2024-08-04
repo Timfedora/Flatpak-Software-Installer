@@ -1,4 +1,4 @@
-# Flatpak-Installer
+# Flatpak-Software-Installer
 Flatpak-Installer is a Bash script designed to simplify the installation of various software packages via Flatpak. It checks for the presence of Flatpak and the Flathub repository, then allows you to select and install a variety of applications, including text editors, audio & video tools, electronics software, terminals, file managers, and browsers.
 
 # Features
