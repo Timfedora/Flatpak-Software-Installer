@@ -38,6 +38,13 @@ echo "(15) BlackBox"
 echo "Files"
 echo "(16) Dolphin"
 echo "(17) CoreFM"
+echo "Browsers"
+echo "(18) Edge"
+echo "(19) Chrome"
+echo "(20) Chromium"
+echo "(21) Brave"
+echo "(22) Firefox"
+echo "(23) Ungoogled Chromium"
 
 echo "Please enter the numbers of the Software you would like with spaces"
 read -r selections
@@ -61,6 +68,12 @@ install_software() {
         15) flatpak install flathub com.raggesilver.BlackBox -y ;;
         16) flatpak install flathub org.kde.dolphin -y ;;
         17) flatpak install flathub org.cubocore.CoreFM -y ;;
+        18) flatpak install flathub com.microsoft.Edge -y ;;
+        19) flatpak install flathub com.google.Chrome -y ;;
+        20) flatpak install flathub org.chromium.Chromium -y ;;
+        21) flatpak install flathub com.brave.Browser -y ;;
+        22) flatpak install flathub org.mozilla.firefox -y ;;
+        23) flatpak install flathub io.github.ungoogled_software.ungoogled_chromium -y ;;
         *) echo "Invalid selection" ;;
     esac
 }
