@@ -8,9 +8,25 @@ Flexible software installation: Choose from a list of popular software across di
 Easy to use: Interactive menu for selecting software to install.
 
 # Categories of Software:
-Text Editors: Gnome-Text-Editor, Gedit, Vim, Neovim, Emacs, VScode, Kwrite, Atom
-Audio & Video: Mpv, VLC, Audacity
-Electronics: KiCad, LibrePCB
+
+Text Editors: 
+
+- Gnome-Text-Editor
+- Gedit
+- Vim
+- Neovim
+- Emacs VScode
+- Kwrite
+- Atom
+- 
+Audio & Video:
+- Mpv
+- VLC
+- Audacity
+  
+Electronics:
+- KiCad
+- LibrePCB
 Terminals: Konsole, BlackBox
 Files: Dolphin, CoreFM
 Browsers: Edge, Chrome, Chromium, Brave, Firefox, Ungoogled Chromium
