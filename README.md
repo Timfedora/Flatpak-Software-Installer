@@ -15,10 +15,10 @@ Easy to use: Interactive menu for selecting software to install.
 - Gedit
 - Vim
 - Neovim
-- Emacs VScode
+- Emacs 
 - Kwrite
 - Atom
-- 
+- VScode
 ### Audio & Video:
 - Mpv
 - VLC
